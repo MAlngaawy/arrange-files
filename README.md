@@ -1,2 +1,2 @@
-# arrange-files
-this is a simple node app that arrange files in any directory 
+## arrange-files
+### this is a simple node Script to arrange files in any directory 
